@@ -1,0 +1,1 @@
+coroutine例外処理メモ
